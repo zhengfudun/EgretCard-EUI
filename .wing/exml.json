@@ -1,0 +1,27 @@
+{
+    "16671f3c112": {
+        "path": "MainScene.ts",
+        "class": "MainScene",
+        "parentPath": ""
+    },
+    "16673b8ab03": {
+        "path": "..\\resource\\My_skins\\PlayerScene.ts",
+        "class": "PlayerScene",
+        "parentPath": ""
+    },
+    "1667413f7a1": {
+        "path": "MyGame\\HeroScene.ts",
+        "class": "HeroScene",
+        "parentPath": ""
+    },
+    "1667414cad2": {
+        "path": "MyGame\\GoodsScene.ts",
+        "class": "GoodsScene",
+        "parentPath": ""
+    },
+    "1667415c965": {
+        "path": "MyGame\\AboutScene.ts",
+        "class": "AboutScene",
+        "parentPath": ""
+    }
+}
